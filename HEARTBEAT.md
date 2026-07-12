@@ -1,15 +1,15 @@
 # npl-gateway — heartbeat
 
-state: **idle**
-last beat: 2026-07-03T13:38:22Z
-next beat: 2026-07-04T13:38:22Z
+state: **healthy**
+last beat: 2026-07-10T04:21:48Z
+next beat: 2026-07-10T10:21:48Z
 
 ## what it found
 
-- last commit: 2026-06-22 11:31:15 -0700 (259 hours ago)
-- uncommitted changes: 4
+- last commit: 2026-07-03 07:02:53 -0700 (158 hours ago)
+- uncommitted changes: 21
 
 ## the truth
 
-There are 4 uncommitted changes.
-No recent activity. Resting.
+There are 21 uncommitted changes.
+
